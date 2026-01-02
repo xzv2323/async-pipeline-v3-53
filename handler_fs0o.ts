@@ -1,0 +1,1 @@
+const service_fs0o = <T>(args: T): T => { return args; };
